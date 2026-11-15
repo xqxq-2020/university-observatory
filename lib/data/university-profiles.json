@@ -1,0 +1,1049 @@
+{
+  "u080": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "浙江大学位于杭州，办学源流可追溯至求是书院。1998年由原浙江大学、杭州大学、浙江农业大学和浙江医科大学合并组建，学科覆盖文理工农医等领域。",
+      "url": "https://www.zju.edu.cn/xxgk1/list.psp",
+      "label": "浙江大学学校概况"
+    },
+    "motto": {
+      "text": "求是创新",
+      "url": "https://www.zju.edu.cn/573/listm.htm",
+      "label": "浙江大学校训"
+    },
+    "founded": {
+      "text": "1897 年（前身求是书院）",
+      "url": "https://www.zju.edu.cn/519/listm.htm",
+      "label": "浙江大学历史沿革"
+    },
+    "president": {
+      "text": "马琰铭",
+      "url": "https://www.zju.edu.cn/xrld/list.htm",
+      "label": "浙江大学现任领导"
+    },
+    "crest": {
+      "src": "/university-crests/u080.png",
+      "url": "https://www.zju.edu.cn/514/listm.htm",
+      "label": "浙江大学校标"
+    },
+    "timeline": [
+      {
+        "year": "1897",
+        "text": "求是书院在杭州创立",
+        "url": "https://www.zju.edu.cn/519/listm.htm",
+        "label": "浙江大学历史沿革"
+      },
+      {
+        "year": "1928",
+        "text": "定名为国立浙江大学",
+        "url": "https://www.zju.edu.cn/519/listm.htm",
+        "label": "浙江大学历史沿革"
+      },
+      {
+        "year": "1937–1946",
+        "text": "抗战期间辗转西迁办学，1946年回迁杭州",
+        "url": "https://www.zju.edu.cn/519/listm.htm",
+        "label": "浙江大学历史沿革"
+      },
+      {
+        "year": "1998",
+        "text": "四所同源院校合并组建新的浙江大学",
+        "url": "https://www.zju.edu.cn/519/listm.htm",
+        "label": "浙江大学历史沿革"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "叶笃正",
+        "note": "气象学家，1943年获国立浙江大学理学硕士学位。",
+        "url": "https://acv.zju.edu.cn/site/ztby_dsj_view.html?year=2006",
+        "label": "浙江大学档案馆"
+      },
+      {
+        "name": "路甬祥",
+        "note": "流体传动与控制专家，1964年毕业于浙江大学机械系。",
+        "url": "https://zdjy.zju.edu.cn/review/toReview?dbID=23&dbName=ZHEJIANGDAXUEBAO&sysID=17829",
+        "label": "浙江大学报"
+      },
+      {
+        "name": "段永平",
+        "note": "企业家，1983年毕业于浙江大学无线电系。",
+        "url": "https://www.zju.edu.cn/2023/0317/c75052a2730004/page.htm",
+        "label": "浙江大学官网"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.zju.edu.cn/xxgk1/list.psp",
+        "label": "学校概况"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.zju.edu.cn/573/listm.htm",
+        "label": "校训"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.zju.edu.cn/xrld/list.htm",
+        "label": "现任领导"
+      },
+      {
+        "kind": "history",
+        "url": "https://www.zju.edu.cn/519/listm.htm",
+        "label": "历史沿革"
+      }
+    ]
+  },
+  "u001": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "北京大学前身是京师大学堂，1912年改为现名。1952年院系调整后形成以文理基础学科为主的办学格局，2000年与原北京医科大学合并。",
+      "url": "https://www.pku.edu.cn/about.html",
+      "label": "北京大学简介"
+    },
+    "founded": {
+      "text": "1898 年（前身京师大学堂）",
+      "url": "https://www.pku.edu.cn/about.html",
+      "label": "北京大学简介"
+    },
+    "president": {
+      "text": "高松",
+      "url": "https://www.pku.edu.cn/leaders.html",
+      "label": "北京大学现任领导"
+    },
+    "crest": {
+      "src": "/university-crests/u001.png",
+      "url": "https://vim.pku.edu.cn/xzzq/",
+      "label": "北京大学标识管理办公室"
+    },
+    "timeline": [
+      {
+        "year": "1898",
+        "text": "京师大学堂创立",
+        "url": "https://www.pku.edu.cn/about.html",
+        "label": "北京大学简介"
+      },
+      {
+        "year": "1912",
+        "text": "京师大学堂改称北京大学校",
+        "url": "https://www.pku.edu.cn/about.html",
+        "label": "北京大学简介"
+      },
+      {
+        "year": "1952",
+        "text": "院系调整后迁至燕园办学",
+        "url": "https://www.pku.edu.cn/about.html",
+        "label": "北京大学简介"
+      },
+      {
+        "year": "2000",
+        "text": "与原北京医科大学合并",
+        "url": "https://www.pku.edu.cn/about.html",
+        "label": "北京大学简介"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "屠呦呦",
+        "note": "诺贝尔生理学或医学奖获得者，1951年考入北京大学医学院。",
+        "url": "https://news.pku.edu.cn/info/7921/2959841.htm",
+        "label": "北京大学新闻网"
+      },
+      {
+        "name": "王选",
+        "note": "计算机科学家，北京大学毕业，主持研发汉字激光照排技术。",
+        "url": "https://www.pku.edu.cn/historyFamous.html",
+        "label": "北京大学历史名人"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.pku.edu.cn/about.html",
+        "label": "北京大学简介"
+      },
+      {
+        "kind": "identity",
+        "url": "https://vim.pku.edu.cn/xzzq/",
+        "label": "校徽下载"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.pku.edu.cn/leaders.html",
+        "label": "现任领导"
+      },
+      {
+        "kind": "history",
+        "url": "https://www.xsg.pku.edu.cn/century.html",
+        "label": "北京大学校史馆"
+      },
+      {
+        "kind": "alumni",
+        "url": "https://www.pku.edu.cn/historyFamous.html",
+        "label": "历史名人"
+      }
+    ]
+  },
+  "u003": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "清华大学由清华学堂发展而来，1928年更名为国立清华大学。学校在1952年院系调整后以工科为主，改革开放后逐步拓展文、理、医等学科。",
+      "url": "https://www.tsinghua.edu.cn/info/1011/103375.htm",
+      "label": "清华大学学校沿革"
+    },
+    "motto": {
+      "text": "自强不息，厚德载物",
+      "url": "https://www.tsinghua.edu.cn/info/1011/103375.htm",
+      "label": "清华大学学校沿革"
+    },
+    "founded": {
+      "text": "1911 年（前身清华学堂）",
+      "url": "https://www.tsinghua.edu.cn/info/1011/103375.htm",
+      "label": "清华大学学校沿革"
+    },
+    "president": {
+      "text": "李路明",
+      "url": "https://www.tsinghua.edu.cn/xxgk/xrld.htm",
+      "label": "清华大学现任领导"
+    },
+    "crest": {
+      "src": "/university-crests/u003.png",
+      "url": "https://vi.tsinghua.edu.cn/gk/xxbz/xh.htm",
+      "label": "清华大学视觉形象识别"
+    },
+    "timeline": [
+      {
+        "year": "1911",
+        "text": "清华学堂开办",
+        "url": "https://www.tsinghua.edu.cn/info/1011/103375.htm",
+        "label": "清华大学学校沿革"
+      },
+      {
+        "year": "1928",
+        "text": "更名为国立清华大学",
+        "url": "https://www.tsinghua.edu.cn/info/1011/103375.htm",
+        "label": "清华大学学校沿革"
+      },
+      {
+        "year": "1938",
+        "text": "与北大、南开合办的国立长沙临时大学迁至昆明，更名为国立西南联合大学",
+        "url": "https://www.tsinghua.edu.cn/info/1011/103375.htm",
+        "label": "清华大学学校沿革"
+      },
+      {
+        "year": "1946",
+        "text": "迁回北京清华园",
+        "url": "https://www.tsinghua.edu.cn/info/1011/103375.htm",
+        "label": "清华大学学校沿革"
+      },
+      {
+        "year": "1952",
+        "text": "院系调整后以多科性工科教育为主",
+        "url": "https://www.tsinghua.edu.cn/info/1011/103375.htm",
+        "label": "清华大学学校沿革"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "钱三强",
+        "note": "核物理学家，1936年毕业于清华大学物理系。",
+        "url": "https://www.tsinghua.edu.cn/info/2030/78689.htm",
+        "label": "清华大学知名校友"
+      },
+      {
+        "name": "杨振宁",
+        "note": "物理学家，1942年毕业于西南联大，并获诺贝尔奖。",
+        "url": "https://www.tsinghua.edu.cn/info/2030/78689.htm",
+        "label": "清华大学知名校友"
+      },
+      {
+        "name": "钱学森",
+        "note": "空气动力学与航天工程专家，1934年入选清华公费留美生。",
+        "url": "https://www.tsinghua.edu.cn/info/2030/78689.htm",
+        "label": "清华大学知名校友"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.tsinghua.edu.cn/xxgk.htm",
+        "label": "学校概况"
+      },
+      {
+        "kind": "identity",
+        "url": "https://vi.tsinghua.edu.cn/gk/xxbz/xh.htm",
+        "label": "校徽规范"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.tsinghua.edu.cn/xxgk/xrld.htm",
+        "label": "现任领导"
+      },
+      {
+        "kind": "history",
+        "url": "https://www.tsinghua.edu.cn/info/1011/103375.htm",
+        "label": "学校沿革"
+      },
+      {
+        "kind": "alumni",
+        "url": "https://www.tsinghua.edu.cn/info/2030/78689.htm",
+        "label": "知名校友"
+      }
+    ]
+  },
+  "u051": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "复旦大学由复旦公学发展而来，2000年与上海医科大学合并。学校的教学与研究涵盖人文社科、理工与医学等领域。",
+      "url": "https://www.fudan.edu.cn/18/list.htm",
+      "label": "复旦大学简介"
+    },
+    "motto": {
+      "text": "博学而笃志，切问而近思",
+      "url": "https://www.fudan.edu.cn/451/list.htm",
+      "label": "复旦大学标志"
+    },
+    "founded": {
+      "text": "1905 年（前身复旦公学）",
+      "url": "https://www.fudan.edu.cn/18/list.htm",
+      "label": "复旦大学简介"
+    },
+    "president": {
+      "text": "金力",
+      "url": "https://www.fudan.edu.cn/448/list.htm",
+      "label": "复旦大学治理架构"
+    },
+    "crest": {
+      "src": "/university-crests/u051.png",
+      "url": "https://www.fudan.edu.cn/2022/0926/c2403a132498/page.htm",
+      "label": "复旦大学校徽规范"
+    },
+    "timeline": [
+      {
+        "year": "1905",
+        "text": "马相伯创办复旦公学",
+        "url": "https://www.fudan.edu.cn/18/list.htm",
+        "label": "复旦大学简介"
+      },
+      {
+        "year": "1917",
+        "text": "定名为复旦大学",
+        "url": "https://www.fudan.edu.cn/18/list.htm",
+        "label": "复旦大学简介"
+      },
+      {
+        "year": "1952",
+        "text": "院系调整后以文理基础教学和研究为主要特色",
+        "url": "https://www.fudan.edu.cn/18/list.htm",
+        "label": "复旦大学简介"
+      },
+      {
+        "year": "2000",
+        "text": "与上海医科大学合并组建新的复旦大学",
+        "url": "https://www.fudan.edu.cn/18/list.htm",
+        "label": "复旦大学简介"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "于漪",
+        "note": "教育家，1951年毕业于复旦大学教育系。",
+        "url": "https://alumni.fudan.edu.cn/e6/52/c14599a190034/page.htm",
+        "label": "复旦大学校友会"
+      },
+      {
+        "name": "李大潜",
+        "note": "数学家，1957年毕业于复旦大学数学系。",
+        "url": "https://library.fudan.edu.cn/e6/a8/c42723a517800/page.htm",
+        "label": "复旦大学图书馆"
+      },
+      {
+        "name": "何积丰",
+        "note": "计算机软件理论研究者，1965年毕业于复旦大学数学系。",
+        "url": "https://math.fudan.edu.cn/ysxy/list3.htm",
+        "label": "复旦大学数学科学学院"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.fudan.edu.cn/18/list.htm",
+        "label": "复旦简介"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.fudan.edu.cn/451/list.htm",
+        "label": "复旦标志"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.fudan.edu.cn/448/list.htm",
+        "label": "治理架构"
+      },
+      {
+        "kind": "history",
+        "url": "https://www.fudan.edu.cn/452/list.htm",
+        "label": "复旦章程"
+      },
+      {
+        "kind": "alumni",
+        "url": "https://math.fudan.edu.cn/jcxy/list.htm",
+        "label": "院士校友"
+      }
+    ]
+  },
+  "u053": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "上海交通大学源自盛宣怀在上海创办的南洋公学，现为教育部直属、与上海市共建的综合性大学。2005年与原上海第二医科大学共同组建新的上海交通大学。",
+      "url": "https://www.sjtu.edu.cn/xxjj/",
+      "label": "上海交通大学学校简介"
+    },
+    "motto": {
+      "text": "饮水思源，爱国荣校",
+      "url": "https://plan.sjtu.edu.cn/info/1025/1212.htm",
+      "label": "上海交通大学章程"
+    },
+    "founded": {
+      "text": "1896 年（前身南洋公学）",
+      "url": "https://www.sjtu.edu.cn/xxjj/",
+      "label": "上海交通大学学校简介"
+    },
+    "president": {
+      "text": "丁奎岭",
+      "url": "https://www.sjtu.edu.cn/jdld/",
+      "label": "上海交通大学现任领导"
+    },
+    "crest": {
+      "src": "/university-crests/u053.png",
+      "url": "https://vi.sjtu.edu.cn/index.php/articles/bulletin/13",
+      "label": "上海交通大学视觉形象识别系统"
+    },
+    "timeline": [
+      {
+        "year": "1896",
+        "text": "盛宣怀创办南洋公学",
+        "url": "https://plan.sjtu.edu.cn/info/1025/1212.htm",
+        "label": "上海交通大学章程"
+      },
+      {
+        "year": "1921",
+        "text": "更名为交通大学上海学校",
+        "url": "https://plan.sjtu.edu.cn/info/1025/1212.htm",
+        "label": "上海交通大学章程"
+      },
+      {
+        "year": "1959",
+        "text": "交通大学上海部分定名为上海交通大学",
+        "url": "https://plan.sjtu.edu.cn/info/1025/1212.htm",
+        "label": "上海交通大学章程"
+      },
+      {
+        "year": "2005",
+        "text": "与原上海第二医科大学共同组建新的上海交通大学",
+        "url": "https://plan.sjtu.edu.cn/info/1025/1212.htm",
+        "label": "上海交通大学章程"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "钱学森",
+        "note": "航天工程与应用力学专家，1934年毕业于交通大学机械工程系。",
+        "url": "https://news.sjtu.edu.cn/agfd/20180921/83787.html",
+        "label": "上海交通大学新闻学术网"
+      },
+      {
+        "name": "吴文俊",
+        "note": "数学家，1940年毕业于交通大学数学系。",
+        "url": "https://sjtuhistory.sjtu.edu.cn/info/1039/1602.htm",
+        "label": "上海交通大学校史网"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.sjtu.edu.cn/xxjj/",
+        "label": "学校简介"
+      },
+      {
+        "kind": "identity",
+        "url": "https://vi.sjtu.edu.cn/index.php/articles/bulletin/13",
+        "label": "校徽下载"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.sjtu.edu.cn/jdld/",
+        "label": "现任领导"
+      },
+      {
+        "kind": "history",
+        "url": "https://130.sjtu.edu.cn/history",
+        "label": "校史沿革"
+      },
+      {
+        "kind": "alumni",
+        "url": "https://sjtuhistory.sjtu.edu.cn/rw/zmxy/kjjy.htm",
+        "label": "著名校友"
+      }
+    ]
+  },
+  "u064": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "南京大学是教育部直属的综合性大学，在南京设仙林、鼓楼和浦口校区，并设有苏州校区。",
+      "url": "https://www.nju.edu.cn/ndgk/ndjj.htm",
+      "label": "南京大学 · 南大简介"
+    },
+    "founded": {
+      "text": "1902年 · 前身三江师范学堂创办",
+      "url": "https://www.nju.edu.cn/ndgk/ndjj.htm",
+      "label": "南京大学 · 南大简介"
+    },
+    "president": {
+      "text": "谈哲敏",
+      "url": "https://www.nju.edu.cn/ndgk/xrld.htm",
+      "label": "南京大学 · 现任领导"
+    },
+    "motto": {
+      "text": "诚朴雄伟，励学敦行",
+      "url": "https://www.nju.edu.cn/info/3191/118841.htm",
+      "label": "南京大学 · 校训释义"
+    },
+    "timeline": [
+      {
+        "year": "1902",
+        "text": "前身三江师范学堂创办。",
+        "url": "https://www.nju.edu.cn/ndgk/ndjj.htm",
+        "label": "南京大学 · 南大简介"
+      },
+      {
+        "year": "1950",
+        "text": "国立南京大学更名为南京大学。",
+        "url": "https://www.nju.edu.cn/ndgk/ndjj.htm",
+        "label": "南京大学 · 南大简介"
+      },
+      {
+        "year": "1952",
+        "text": "院系调整后，南京大学与金陵大学文、理学院等合并，校址迁至鼓楼。",
+        "url": "https://www.nju.edu.cn/ndgk/ndjj.htm",
+        "label": "南京大学 · 南大简介"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.nju.edu.cn/ndgk/ndjj.htm",
+        "label": "南京大学 · 南大简介"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.nju.edu.cn/ndgk/xrld.htm",
+        "label": "南京大学 · 现任领导"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.nju.edu.cn/info/3191/118841.htm",
+        "label": "南京大学 · 校训释义"
+      },
+      {
+        "kind": "identity",
+        "url": "https://ndbgs.nju.edu.cn/zlxz/bsbz/20231012/i251602.html",
+        "label": "南京大学办公室 · 校标视觉规范"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "周成虎",
+        "note": "中国科学院院士",
+        "url": "https://www.nju.edu.cn/info/3181/30371.htm",
+        "label": "南京大学 · 校友院士"
+      },
+      {
+        "name": "赵沁平",
+        "note": "中国工程院院士",
+        "url": "https://www.nju.edu.cn/info/3181/30371.htm",
+        "label": "南京大学 · 校友院士"
+      },
+      {
+        "name": "丁奎岭",
+        "note": "中国科学院院士",
+        "url": "https://www.nju.edu.cn/info/3181/30371.htm",
+        "label": "南京大学 · 校友院士"
+      }
+    ],
+    "crest": {
+      "src": "/university-crests/u064.png",
+      "url": "https://ndbgs.nju.edu.cn/zlxz/bsbz/20231012/i251602.html",
+      "label": "南京大学办公室 · 校标视觉规范"
+    }
+  },
+  "u093": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "武汉大学是教育部直属的综合性大学，地处湖北武汉珞珈山。学校已有文、理、工、医等学科布局。",
+      "url": "https://www.whu.edu.cn/xxgk/xxjj.htm",
+      "label": "武汉大学 · 学校简介"
+    },
+    "founded": {
+      "text": "1893年 · 溯源至自强学堂",
+      "url": "https://www.whu.edu.cn/xxgk/xxjj.htm",
+      "label": "武汉大学 · 学校简介"
+    },
+    "president": {
+      "text": "张平文",
+      "url": "https://www.whu.edu.cn/xxgk/xrld.htm",
+      "label": "武汉大学 · 现任领导"
+    },
+    "motto": {
+      "text": "自强、弘毅、求是、拓新",
+      "url": "https://www.whu.edu.cn/xxgk/wdbs.htm",
+      "label": "武汉大学 · 武大标识"
+    },
+    "timeline": [
+      {
+        "year": "1893",
+        "text": "自强学堂创办，为武汉大学办学源头。",
+        "url": "https://www.whu.edu.cn/xxgk/xxjj.htm",
+        "label": "武汉大学 · 学校简介"
+      },
+      {
+        "year": "1928",
+        "text": "学校定名为国立武汉大学。",
+        "url": "https://www.whu.edu.cn/xxgk/xxjj.htm",
+        "label": "武汉大学 · 学校简介"
+      },
+      {
+        "year": "2000",
+        "text": "武汉大学与武汉水利电力大学、武汉测绘科技大学、湖北医科大学合并。",
+        "url": "https://www.whu.edu.cn/xxgk/xxjj.htm",
+        "label": "武汉大学 · 学校简介"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.whu.edu.cn/xxgk/xxjj.htm",
+        "label": "武汉大学 · 学校简介"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.whu.edu.cn/xxgk/xrld.htm",
+        "label": "武汉大学 · 现任领导"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.whu.edu.cn/xxgk/wdbs.htm",
+        "label": "武汉大学 · 武大标识"
+      },
+      {
+        "kind": "alumni",
+        "url": "https://www.whu.edu.cn/xxgk/jcxy.htm",
+        "label": "武汉大学 · 杰出校友"
+      },
+      {
+        "kind": "history",
+        "url": "https://www.whu.edu.cn/xxgk/bnxs.htm",
+        "label": "武汉大学 · 百年校史"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "雷军",
+        "note": "小米集团创始人",
+        "url": "https://news.whu.edu.cn/info/1002/447587.htm",
+        "label": "武汉大学新闻网 · 校友雷军"
+      },
+      {
+        "name": "王佛松",
+        "note": "首届杰出校友",
+        "url": "https://www.whu.edu.cn/xxgk/jcxy.htm",
+        "label": "武汉大学 · 杰出校友"
+      },
+      {
+        "name": "刘先林",
+        "note": "第三届杰出校友",
+        "url": "https://www.whu.edu.cn/xxgk/jcxy.htm",
+        "label": "武汉大学 · 杰出校友"
+      }
+    ],
+    "crest": {
+      "src": "/university-crests/u093.png",
+      "url": "https://www.whu.edu.cn/xxgk/wdbs.htm",
+      "label": "武汉大学 · 武大标识"
+    }
+  },
+  "u083": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "中国科学技术大学隶属中国科学院，位于安徽合肥，以前沿科学和高新技术为主要办学方向。",
+      "url": "https://www.ustc.edu.cn/xxgk/xxjj.htm",
+      "label": "中国科学技术大学 · 学校简介"
+    },
+    "founded": {
+      "text": "1958年 · 在北京创建",
+      "url": "https://www.ustc.edu.cn/xxgk/xxjj.htm",
+      "label": "中国科学技术大学 · 学校简介"
+    },
+    "president": {
+      "text": "常进",
+      "url": "https://www.ustc.edu.cn/xxgk/xrld.htm",
+      "label": "中国科学技术大学 · 现任领导"
+    },
+    "motto": {
+      "text": "红专并进、理实交融",
+      "url": "https://www.ustc.edu.cn/xxgk/xxjj.htm",
+      "label": "中国科学技术大学 · 学校简介"
+    },
+    "timeline": [
+      {
+        "year": "1958",
+        "text": "学校在北京创办，郭沫若任首任校长。",
+        "url": "https://www.ustc.edu.cn/xxgk/xxjj.htm",
+        "label": "中国科学技术大学 · 学校简介"
+      },
+      {
+        "year": "1970",
+        "text": "学校从北京迁至安徽合肥。",
+        "url": "https://www.ustc.edu.cn/xxgk/xxjj.htm",
+        "label": "中国科学技术大学 · 学校简介"
+      },
+      {
+        "year": "2017",
+        "text": "入选首轮“双一流”建设高校。",
+        "url": "https://www.ustc.edu.cn/xxgk/xxjj.htm",
+        "label": "中国科学技术大学 · 学校简介"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.ustc.edu.cn/xxgk/xxjj.htm",
+        "label": "中国科学技术大学 · 学校简介"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.ustc.edu.cn/xxgk/xrld.htm",
+        "label": "中国科学技术大学 · 现任领导"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.ustc.edu.cn/xxgk/xxjj.htm",
+        "label": "中国科学技术大学 · 学校简介"
+      },
+      {
+        "kind": "identity",
+        "url": "https://djyszw.ustc.edu.cn/info/1070/6835.htm",
+        "label": "中国科学技术大学 · 校徽"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "潘建伟",
+        "note": "量子信息领域研究者",
+        "url": "https://aga.ustc.edu.cn/info/1197/28659.htm",
+        "label": "中国科大校友总会 · 潘建伟"
+      },
+      {
+        "name": "钟扬",
+        "note": "中国科大少年班1979级校友",
+        "url": "https://aga.ustc.edu.cn/info/1197/26913.htm",
+        "label": "中国科大校友总会 · 校友表彰"
+      },
+      {
+        "name": "张瑞敏",
+        "note": "中国科大硕士校友",
+        "url": "https://aga.ustc.edu.cn/info/1197/26913.htm",
+        "label": "中国科大校友总会 · 校友表彰"
+      }
+    ],
+    "crest": {
+      "src": "/university-crests/u083.png",
+      "url": "https://djyszw.ustc.edu.cn/info/1070/6835.htm",
+      "label": "中国科学技术大学 · 校徽"
+    }
+  },
+  "u047": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "哈尔滨工业大学隶属工业和信息化部，校本部位于哈尔滨，在威海和深圳设有校区。",
+      "url": "https://www.hit.edu.cn/11538/list.htm",
+      "label": "哈尔滨工业大学 · 学校简介"
+    },
+    "founded": {
+      "text": "1920年 · 前身哈尔滨中俄工业学校创办",
+      "url": "https://www.hit.edu.cn/11538/list.htm",
+      "label": "哈尔滨工业大学 · 学校简介"
+    },
+    "president": {
+      "text": "韩杰才",
+      "url": "https://www.hit.edu.cn/xrld/list.htm",
+      "label": "哈尔滨工业大学 · 现任领导"
+    },
+    "motto": {
+      "text": "规格严格，功夫到家",
+      "url": "https://www.hit.edu.cn/11544/list.htm",
+      "label": "哈尔滨工业大学 · 学校标志"
+    },
+    "timeline": [
+      {
+        "year": "1920",
+        "text": "哈尔滨中俄工业学校创办。",
+        "url": "https://www.hit.edu.cn/11550/list.htm",
+        "label": "哈尔滨工业大学 · 校史"
+      },
+      {
+        "year": "1954",
+        "text": "列入国家首批重点建设高校。",
+        "url": "https://www.hit.edu.cn/11538/list.htm",
+        "label": "哈尔滨工业大学 · 学校简介"
+      },
+      {
+        "year": "2000",
+        "text": "与哈尔滨建筑大学合并组建新的哈尔滨工业大学。",
+        "url": "https://www.hit.edu.cn/11538/list.htm",
+        "label": "哈尔滨工业大学 · 学校简介"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.hit.edu.cn/11538/list.htm",
+        "label": "哈尔滨工业大学 · 学校简介"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.hit.edu.cn/xrld/list.htm",
+        "label": "哈尔滨工业大学 · 现任领导"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.hit.edu.cn/11544/list.htm",
+        "label": "哈尔滨工业大学 · 学校标志"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.hit.edu.cn/12254/list.htm",
+        "label": "哈尔滨工业大学 · 校徽"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "孙家栋",
+        "note": "中国科学院院士",
+        "url": "https://tv.hit.edu.cn/2026/0408/c31a1870/page.htm",
+        "label": "哈尔滨工业大学 · 杰出校友"
+      },
+      {
+        "name": "刘永坦",
+        "note": "曾在哈工大电机系就读",
+        "url": "https://seie.hit.edu.cn/2023/0606/c17152a313449/page.htm",
+        "label": "哈工大电子与信息工程学院 · 刘永坦"
+      },
+      {
+        "name": "刘忠德",
+        "note": "《哈工大之歌》作词者",
+        "url": "https://www.hit.edu.cn/11544/list.htm",
+        "label": "哈尔滨工业大学 · 学校标志"
+      }
+    ],
+    "crest": {
+      "src": "/university-crests/u047.png",
+      "url": "https://www.hit.edu.cn/12254/list.htm",
+      "label": "哈尔滨工业大学 · 校徽"
+    }
+  },
+  "u127": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "西安交通大学是教育部直属的综合性研究型大学，办学源流可追溯到上海的南洋公学。",
+      "url": "https://www.xjtu.edu.cn/jdgk/jdjj.htm",
+      "label": "西安交通大学 · 交大简介"
+    },
+    "founded": {
+      "text": "1896年 · 前身南洋公学创办",
+      "url": "https://www.xjtu.edu.cn/jdgk/jdjj.htm",
+      "label": "西安交通大学 · 交大简介"
+    },
+    "president": {
+      "text": "张立群",
+      "url": "https://www.xjtu.edu.cn/jdgk/xxld.htm",
+      "label": "西安交通大学 · 现任领导"
+    },
+    "motto": {
+      "text": "精勤求学，敦笃励志，果毅力行，忠恕任事",
+      "url": "https://www.xjtu.edu.cn/info/1024/1007.htm",
+      "label": "西安交通大学 · 校训"
+    },
+    "timeline": [
+      {
+        "year": "1896",
+        "text": "盛宣怀在上海创办南洋公学。",
+        "url": "https://www.xjtu.edu.cn/jdgk/xsyg.htm",
+        "label": "西安交通大学 · 校史沿革"
+      },
+      {
+        "year": "1956",
+        "text": "交通大学师生开始分批迁至西安。",
+        "url": "https://www.xjtu.edu.cn/jdgk/jdjj.htm",
+        "label": "西安交通大学 · 交大简介"
+      },
+      {
+        "year": "1959",
+        "text": "交通大学西安部分定名为西安交通大学。",
+        "url": "https://www.xjtu.edu.cn/jdgk/xsyg.htm",
+        "label": "西安交通大学 · 校史沿革"
+      },
+      {
+        "year": "2000",
+        "text": "西安交通大学与西安医科大学、陕西财经学院合并。",
+        "url": "https://www.xjtu.edu.cn/jdgk/xsyg.htm",
+        "label": "西安交通大学 · 校史沿革"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.xjtu.edu.cn/jdgk/jdjj.htm",
+        "label": "西安交通大学 · 交大简介"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.xjtu.edu.cn/jdgk/xxld.htm",
+        "label": "西安交通大学 · 现任领导"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.xjtu.edu.cn/info/1024/1007.htm",
+        "label": "西安交通大学 · 校训"
+      },
+      {
+        "kind": "history",
+        "url": "https://www.xjtu.edu.cn/jdgk/xsyg.htm",
+        "label": "西安交通大学 · 校史沿革"
+      },
+      {
+        "kind": "alumni",
+        "url": "https://www.xjtu.edu.cn/xyfw/zmxy1.htm",
+        "label": "西安交通大学 · 知名校友"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.xjtu.edu.cn/info/1024/5221.htm",
+        "label": "西安交通大学 · 校徽"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "周鸿祎",
+        "url": "https://www.xjtu.edu.cn/xyfw/zmxy1.htm",
+        "label": "西安交通大学 · 知名校友"
+      },
+      {
+        "name": "孙剑",
+        "url": "https://www.xjtu.edu.cn/xyfw/zmxy1.htm",
+        "label": "西安交通大学 · 知名校友"
+      },
+      {
+        "name": "蒋正华",
+        "url": "https://www.xjtu.edu.cn/xyfw/zmxy1.htm",
+        "label": "西安交通大学 · 知名校友"
+      }
+    ],
+    "crest": {
+      "src": "/university-crests/u127.png",
+      "url": "https://www.xjtu.edu.cn/info/1024/5221.htm",
+      "label": "西安交通大学 · 校徽"
+    }
+  },
+  "u104": {
+    "verifiedOn": "2026-11-15",
+    "overview": {
+      "text": "中山大学是教育部直属的综合性大学，在广州、珠海和深圳设有校区。",
+      "url": "https://www.sysu.edu.cn/xxg/zdjj1/xxgk.htm",
+      "label": "中山大学 · 中大简介"
+    },
+    "founded": {
+      "text": "1924年 · 国立广东大学创办",
+      "url": "https://bwgxsg.sysu.edu.cn/zh-hans/article/229",
+      "label": "中山大学校史馆 · 校史沿革"
+    },
+    "president": {
+      "text": "唐洪武",
+      "url": "https://www.sysu.edu.cn/xxg/xrld.htm",
+      "label": "中山大学 · 现任领导"
+    },
+    "motto": {
+      "text": "博学、审问、慎思、明辨、笃行",
+      "url": "https://www.sysu.edu.cn/xxg/zdjj1.htm",
+      "label": "中山大学 · 校训"
+    },
+    "timeline": [
+      {
+        "year": "1924",
+        "text": "孙中山筹办国立广东大学。",
+        "url": "https://bwgxsg.sysu.edu.cn/zh-hans/article/229",
+        "label": "中山大学校史馆 · 校史沿革"
+      },
+      {
+        "year": "1926",
+        "text": "为纪念孙中山，学校定名为国立中山大学。",
+        "url": "https://bwgxsg.sysu.edu.cn/zh-hans/article/229",
+        "label": "中山大学校史馆 · 校史沿革"
+      },
+      {
+        "year": "2001",
+        "text": "原中山大学与中山医科大学合并。",
+        "url": "https://bwgxsg.sysu.edu.cn/zh-hans/article/229",
+        "label": "中山大学校史馆 · 校史沿革"
+      }
+    ],
+    "sources": [
+      {
+        "kind": "overview",
+        "url": "https://www.sysu.edu.cn/xxg/zdjj1/xxgk.htm",
+        "label": "中山大学 · 中大简介"
+      },
+      {
+        "kind": "leadership",
+        "url": "https://www.sysu.edu.cn/xxg/xrld.htm",
+        "label": "中山大学 · 现任领导"
+      },
+      {
+        "kind": "identity",
+        "url": "https://www.sysu.edu.cn/xxg/zdjj1.htm",
+        "label": "中山大学 · 校训"
+      },
+      {
+        "kind": "history",
+        "url": "https://bwgxsg.sysu.edu.cn/zh-hans/article/229",
+        "label": "中山大学校史馆 · 校史沿革"
+      }
+    ],
+    "alumni": [
+      {
+        "name": "陈平原",
+        "note": "中文系1977级校友",
+        "url": "https://chinese.sysu.edu.cn/article/178",
+        "label": "中山大学中文系 · 校友陈平原"
+      },
+      {
+        "name": "周丹媛",
+        "note": "地质专业1977级校友",
+        "url": "https://gs.sysu.edu.cn/article/1891",
+        "label": "中山大学地球科学与工程学院 · 校友周丹媛"
+      },
+      {
+        "name": "陈小奇",
+        "note": "中国语言文学系1982届校友",
+        "url": "https://www.sysu.edu.cn/news/info/2161/590401.htm",
+        "label": "中山大学新闻网 · 校友陈小奇"
+      }
+    ],
+    "crest": {
+      "src": "/university-crests/u104.png",
+      "url": "https://www.sysu.edu.cn/xxg/zdjj1.htm",
+      "label": "中山大学 · 校徽"
+    }
+  }
+}
