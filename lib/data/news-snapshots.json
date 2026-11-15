@@ -1,0 +1,194 @@
+{
+  "u003": {
+    "school": "清华大学",
+    "sourceLabel": "清华大学官网",
+    "source": "https://www.tsinghua.edu.cn/",
+    "status": "ok",
+    "fetchedAt": "2026-11-15T00:27:25.054Z",
+    "items": [
+      {
+        "title": "通识荣誉课程“城市设计元素导读”：以城为媒，以美育人",
+        "url": "https://www.tsinghua.edu.cn/info/3245/129295.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "王建强：搭建智能汽车“安全场”",
+        "url": "https://www.tsinghua.edu.cn/info/1182/129311.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "清华团队推出芥子须弥·开化展 用数字艺术诠释文物价值",
+        "url": "https://www.tsinghua.edu.cn/info/1182/129310.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "从热线服务透视城市治理的世界图景与中国实践",
+        "url": "https://www.tsinghua.edu.cn/info/1182/129309.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "首都高校新生同上“强国复兴有我”大思政课",
+        "url": "https://www.tsinghua.edu.cn/info/1182/129308.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "清华大学美术学院成立七十周年发展大会举行",
+        "url": "http://www.tsinghua.edu.cn/info/1177/129085.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "清华大学建筑学科八十周年发展大会举行",
+        "url": "http://www.tsinghua.edu.cn/info/1177/128971.htm",
+        "publishedAt": null,
+        "category": "学术进展"
+      },
+      {
+        "title": "中央第三巡视组巡视清华大学党委工作动员会召开",
+        "url": "http://www.tsinghua.edu.cn/info/1177/128934.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "“人文清华”讲坛：你是谁？探案三星堆",
+        "url": "https://www.tsinghua.edu.cn/info/1002/129141.htm",
+        "publishedAt": "2026-11-09",
+        "category": "校园动态"
+      },
+      {
+        "title": "2026年度《柳叶刀人群健康与气候变化倒计时报告》发布",
+        "url": "https://www.tsinghua.edu.cn/info/1002/128965.htm",
+        "publishedAt": "2026-10-29",
+        "category": "校园动态"
+      },
+      {
+        "title": "清华艺术公开课 | 非遗的全球叙事与国际传播实践",
+        "url": "https://www.tsinghua.edu.cn/info/1002/128908.htm",
+        "publishedAt": "2026-10-28",
+        "category": "校园动态"
+      },
+      {
+        "title": "2026年度唯真讲坛系列宣讲第九讲：红军长征的光辉历程与伟大意义",
+        "url": "https://www.tsinghua.edu.cn/info/1002/128634.htm",
+        "publishedAt": "2026-10-14",
+        "category": "就业动态"
+      }
+    ],
+    "message": "官网公开标题已同步"
+  },
+  "u080": {
+    "school": "浙江大学",
+    "sourceLabel": "浙江大学本科生院",
+    "source": "https://ugrs.zju.edu.cn/",
+    "status": "ok",
+    "fetchedAt": "2026-11-15T00:29:03.169Z",
+    "items": [
+      {
+        "title": "“大学生思想文化素养”课程备课座谈会举行",
+        "url": "http://www.news.zju.edu.cn/2026/1110/c23434a3225013/page.htm",
+        "publishedAt": "2026-11-07",
+        "category": "校园动态"
+      },
+      {
+        "title": "浙江大学“FUTURE未来教师人工智能素养提升计划”启动仪式暨首场培训会举行",
+        "url": "http://www.news.zju.edu.cn/2026/1102/c23434a3221593/page.htm",
+        "publishedAt": "2026-11-02",
+        "category": "校园动态"
+      },
+      {
+        "title": "面向未来的跨境教育论坛举行",
+        "url": "http://www.news.zju.edu.cn/2026/1019/c23434a3216244/page.htm",
+        "publishedAt": "2026-10-19",
+        "category": "校园动态"
+      }
+    ],
+    "message": "官网公开标题已同步"
+  },
+  "u001": {
+    "school": "北京大学",
+    "sourceLabel": "北京大学官网",
+    "source": "https://news.pku.edu.cn/",
+    "status": "ok",
+    "fetchedAt": "2026-11-15T00:27:25.052Z",
+    "items": [
+      {
+        "title": "中国共产党北京大学第十四届委员会第四次全体（扩大）会议举行",
+        "url": "http://news.pku.edu.cn/info/7921/3327571.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "天津市委常委、教育工委书记访问北京大学",
+        "url": "https://news.pku.edu.cn/info/7921/3339501.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "西班牙巴塞罗那自治大学校长率团访问北京大学",
+        "url": "https://news.pku.edu.cn/info/7921/3339491.htm",
+        "publishedAt": null,
+        "category": "校园动态"
+      },
+      {
+        "title": "第十四届全国政协常委、水利部原副部长朱程清一行到北大计算机学院ACIR实验室考察交流",
+        "url": "https://news.pku.edu.cn/info/7921/3339471.htm",
+        "publishedAt": null,
+        "category": "学术进展"
+      },
+      {
+        "title": "机关党委、机关团总支举办“爱·成长”青年工作坊暨北京大学2026年度“青年文明号”“青年岗位能手”评审交流活动",
+        "url": "https://news.pku.edu.cn/info/7921/3328681.htm",
+        "publishedAt": "2026-11-14",
+        "category": "校园动态"
+      },
+      {
+        "title": "北京大学2026年生活科普节科普报告第三讲举行，刘卉解读大学生情绪识别与自我调节",
+        "url": "https://news.pku.edu.cn/info/7921/3328191.htm",
+        "publishedAt": "2026-11-13",
+        "category": "校园动态"
+      },
+      {
+        "title": "简街集团向北京大学捐赠，支持基础学科人才培养",
+        "url": "https://news.pku.edu.cn/info/7921/3328171.htm",
+        "publishedAt": "2026-11-13",
+        "category": "学术进展"
+      },
+      {
+        "title": "南南合作与发展学院埃塞俄比亚校友论坛举行",
+        "url": "https://news.pku.edu.cn/info/7921/3328181.htm",
+        "publishedAt": "2026-11-13",
+        "category": "校园动态"
+      },
+      {
+        "title": "北京论坛（2026）分论坛“人工智能时代的工程教育变革与科技创新”举行，共启未来学习全球对话",
+        "url": "https://news.pku.edu.cn/info/7921/3328161.htm",
+        "publishedAt": "2026-11-13",
+        "category": "校园动态"
+      },
+      {
+        "title": "南京市“四对接”暨“百校巡回招引”北京大学专场活动举行",
+        "url": "https://news.pku.edu.cn/info/7921/3328141.htm",
+        "publishedAt": "2026-11-13",
+        "category": "校园动态"
+      },
+      {
+        "title": "区域与国别研究院举行海外田野调研经验交流总结会",
+        "url": "https://news.pku.edu.cn/info/7921/3328131.htm",
+        "publishedAt": "2026-11-13",
+        "category": "学术进展"
+      },
+      {
+        "title": "云南省大理白族自治州弥渡县委书记一行到访光华管理学院",
+        "url": "https://news.pku.edu.cn/info/7921/3328121.htm",
+        "publishedAt": "2026-11-13",
+        "category": "校园动态"
+      }
+    ],
+    "message": "官网公开标题已同步"
+  }
+}
